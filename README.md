@@ -2,7 +2,6 @@
 
 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas  
 📚 Apaixonada por aprender, codar e crescer todos os dias  
-💡 Interessada em desenvolvimento full stack, lógica, dados e design de software
 
 ---
 ### 🖋 Sobre mim
