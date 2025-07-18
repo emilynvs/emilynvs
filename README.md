@@ -34,7 +34,7 @@
 
 📚 Um sistema de histórico de leitura em desenvolvimento utilizando Java e MySQL
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=HistoricoLiterario&theme=midnight-purple)](https://github.com/emilynvs/HistoricoLiterario/tree/feature/dao-wip)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=HistoricoDeLeitura&theme=midnight-purple)](https://github.com/emilynvs/HistoricoDeLeitura.git)
 
 🗂 Um guia de Padrões de projeto utlizando explicações autorais e simples do dia a dia
 
