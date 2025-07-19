@@ -6,19 +6,42 @@
 ---
 ### 🖋 Sobre mim
 
- - Sou estudante de ADS apaixonada por tecnologia, leitura e estudo.
- - Amo literatura clássica
- - Meu hobby favorito é aprender 
- - Gosto de me desafiar
- 
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnologia, leitura e aprendizado constante. Tenho interesse especial por desenvolvimento back-end, boas práticas de código e arquitetura de software. Gosto de me desafiar com novos projetos e estou sempre buscando crescer como programadora e pessoa.
+
 ---
 
 ### ✨ Tecnologias que utilizo:
 
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🌱 Em desenvolvimento:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📂 Projeto em desenvolvimento: 
+
+
+#### 📚 Sistema de Histórico de Leitura  
+Um sistema em Java e MySQL para acompanhar e registrar leituras realizadas.  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=HistoricoDeLeitura&theme=midnight-purple)](https://github.com/emilynvs/HistoricoDeLeitura)
+
+---
+
+#### 🗂 Guia de Padrões de Projeto  
+Guia com explicações simples e autorais sobre os principais padrões de projeto de software.  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=Padroes-de-Projeto&theme=midnight-purple)](https://github.com/emilynvs/Padroes-de-Projeto)
 
 ---
 
@@ -29,26 +52,7 @@
 
 ---
 
-### 🦉 Projeto atual: 
-
-📚 Um sistema de histórico de leitura em desenvolvimento utilizando Java e MySQL
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=HistoricoDeLeitura&theme=midnight-purple)](https://github.com/emilynvs/HistoricoDeLeitura)
-
-🗂 Um guia de Padrões de projeto utlizando explicações autorais e simples do dia a dia
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=Padroes-de-Projeto&theme=midnight-purple)](https://github.com/emilynvs/Padroes-de-Projeto)
-
----
-
-### 🌱 Em desenvolvimento:
-- 📜 JavaScript
-- 🐳 Docker
-- 🌐 HTML e CSS
-
----
-
-### 👩‍💻 Contato
+### 📬 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/emily-neves-nascimento-17a2a7326)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emynvs/)
@@ -58,6 +62,8 @@
 
 
 > “Estudar é uma forma de oração.”🌺
+
+
 <!--
 **emilynvs/emilynvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
