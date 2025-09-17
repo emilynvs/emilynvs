@@ -34,7 +34,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonada por tecnolog
 #### 📚 Sistema de Histórico de Leitura  
 Um sistema em Java e MySQL para acompanhar e registrar leituras realizadas.  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=HistoricoDeLeitura&theme=midnight-purple)](https://github.com/emilynvs/historico-de-leitura.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynvs&repo=historico-de-leitura&theme=midnight-purple)](https://github.com/emilynvs/historico-de-leitura.git)
 
 ---
 
