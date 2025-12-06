@@ -60,8 +60,20 @@ Guia com explicações simples e autorais sobre os principais padrões de projet
 
 ---
 
+###
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilynvs/emilynvs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilynvs/emilynvs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/emilynvs/emilynvs/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 > “Estudar é uma forma de oração.”🌺
+
+
 
 
 <!--
