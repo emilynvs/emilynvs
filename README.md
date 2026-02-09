@@ -1,12 +1,11 @@
 <h1 align="center">🌼 Emily Neves 🌼</h1> 
-<p align="center"><i>Entre livros, café e código.</i></p>
+<p align="center"><i>Entre livros e código.</i></p>
 
 
 <p align="center">✦ ★ ✦</p>
 
 ## ✒️ Sobre mim
 📚 Estudante de Análise e Desenvolvimento de Sistemas
-☕ Vivo a base de café, aprendizado constante e programar
 🔖 Fanática por leitura
 
 <p align="center">✦ ★ ✧ ★ ✦</p>
@@ -25,23 +24,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F29D0C?style=for-the-badge&logo=firebase&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/DesignPatterns-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2P8z/C/HgAGhQJ/pqCq6QAAAABJRU5ErkJggg==)
-
-
-### 📚 Próximos passos
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
 <p align="center">✦ ⋆ ⋄ ⋆ ✦</p>
 
-### 📊 Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilynvs&theme=midnight-purple&show_icons=true)
 
-## 🌈 Linguagens favoritas
+## 🌈 Linguagens que utilizei
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emilynvs&layout=compact&theme=dark&hide_border=true&bg_color=0D1117">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=emilynvs&layout=compact&theme=light&hide_border=true&bg_color=0D1117">
